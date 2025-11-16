@@ -1,0 +1,7 @@
+{
+  "id": "emoji",
+  "name": { "th": "อิโมจิ", "en": "Emoji" },
+  "groups": [
+    { "id": "faces", "file": "categories/emoji/faces.json" }
+  ]
+}

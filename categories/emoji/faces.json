@@ -1,0 +1,23 @@
+{
+  "name": {
+    "th": "หน้า",
+    "en": "Faces"
+  },
+  "data": [
+    {
+      "api": "unicode",
+      "text": "😀",
+      "name": { "th": "หน้ายิ้ม", "en": "Grinning Face" }
+    },
+    {
+      "api": "unicode",
+      "text": "😢",
+      "name": { "th": "หน้าเศร้า", "en": "Crying Face" }
+    },
+    {
+      "api": "unicode",
+      "text": "😎",
+      "name": { "th": "หน้าเท่", "en": "Cool Face" }
+    }
+  ]
+}
