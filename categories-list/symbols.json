@@ -1,0 +1,9 @@
+{
+  "id": "symbols",
+  "name": { "th": "อักษรพิเศษ", "en": "Symbols" },
+  "groups": [
+    { "id": "arrows", "file": "categories/symbols/arrows.json", "name": { "th": "ลูกศร", "en": "Arrows" } },
+    { "id": "shapes", "file": "categories/symbols/shapes.json", "name": { "th": "รูปทรง", "en": "Shapes" } },
+    { "id": "stars", "file": "categories/symbols/stars.json", "name": { "th": "ดาวและสัญลักษณ์พิเศษ", "en": "Stars & Symbols" } }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": { "th": "ดาวและสัญลักษณ์พิเศษ", "en": "Stars & Symbols" },
+  "data": [
+    { "text": "★", "api": "U+2605", "name": { "th": "ดาวเต็ม", "en": "Black Star" } },
+    { "text": "☆", "api": "U+2606", "name": { "th": "ดาวว่าง", "en": "White Star" } },
+    { "text": "✦", "api": "U+2726", "name": { "th": "ดาวประกาย", "en": "Black Four Pointed Star" } }
+  ]
+}

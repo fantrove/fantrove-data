@@ -1,0 +1,8 @@
+{
+  "name": { "th": "รูปทรง", "en": "Shapes" },
+  "data": [
+    { "text": "◆", "api": "U+25C6", "name": { "th": "รูปสี่เหลี่ยมข้าวหลามตัด", "en": "Black Diamond" } },
+    { "text": "■", "api": "U+25A0", "name": { "th": "สี่เหลี่ยม", "en": "Black Square" } },
+    { "text": "▲", "api": "U+25B2", "name": { "th": "สามเหลี่ยมขึ้น", "en": "Black Up-Pointing Triangle" } }
+  ]
+}
